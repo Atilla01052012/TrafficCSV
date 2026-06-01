@@ -24,13 +24,7 @@ This dataset can be used for:
 * Trend and peak traffic detection
 * Statistical analysis
 
-## Example Record
 
-| Date       | Day of Week | Traffic Level |
-| ---------- | ----------- | ------------- |
-| 2025-01-01 | Wednesday   | High          |
-| 2025-01-02 | Thursday    | Medium        |
-| 2025-01-03 | Friday      | Low           |
 
 ## Possible Applications
 
